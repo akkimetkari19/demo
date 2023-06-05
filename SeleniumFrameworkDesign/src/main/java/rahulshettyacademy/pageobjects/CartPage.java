@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import rahulshettyacademy.AbstractComponents.AbstractComponent;
-
+// updating the code 
 
 public class CartPage extends AbstractComponent {
 	WebDriver driver;
